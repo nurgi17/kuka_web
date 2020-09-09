@@ -1,4 +1,4 @@
  # Portfolio for @fearsom03
-Live Demo: https://nurgi17.github.io/kuka_web/
+<strong>Live Demo:</strong> https://nurgi17.github.io/kuka_web/ <br><br>
 <strong>Or you scan</strong><br><br>
-<p align="center"><img src="https://github.com/nurgi17/Skateboarder/blob/master/1.png"></p>
+<p align="center"><img src="https://github.com/nurgi17/kuka_web/blob/master/scan.jpg"></p>
